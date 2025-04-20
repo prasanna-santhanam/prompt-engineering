@@ -1,0 +1,42 @@
+✅ 1. Be Clear and Specific
+Avoid being vague. The more detailed your prompt, the better the output.
+
+Instead of:
+
+Write about dogs.
+
+Try:
+
+Write a 150-word blog introduction about why golden retrievers make great family pets.
+
+✅ 2. Set the Role or Style
+Let the AI know who it's speaking as or the tone you want.
+
+Example:
+
+You're a professional chef. Explain how to make a creamy mushroom risotto in a casual tone.
+
+✅ 3. Give Context
+If the task builds on something, share background info to guide the AI.
+
+Example:
+
+I’m working on a landing page for a productivity app. Can you write a catchy headline and subheadline that appeal to remote workers?
+
+✅ 4. Ask for Format
+Tell the AI how you want the response — list, paragraph, table, bullet points, etc.
+
+Example:
+
+List 5 bullet points summarizing the benefits of meditation.
+
+✅ 5. Use Examples (If Needed)
+If you’re looking for a specific style or structure, include an example.
+
+Example:
+
+Write a tweet in the style of Naval Ravikant. Example: "Play long-term games with long-term people."
+
+✅ 6. Iterate and Refine
+Use follow-ups. If the first response isn’t perfect, tweak your prompt and ask again.
+
